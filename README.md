@@ -1,3 +1,9 @@
+#If you use this dataset please cite oure paper 
+Our paper:
+https://arxiv.org/abs/2209.12573
+
+
+
 # Dataset
 here are 2 datasets of audios, the first one is the the English dataset which is all the files expect the arabic_fake and arabic_real
 to create the first dataset and use it download all the audios and compine them in a file then use 90% of these audios as a training set (10% of it is validation which the model take without the need to do it manually) while the remaining 10% for testing
