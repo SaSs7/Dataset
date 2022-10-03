@@ -1,6 +1,7 @@
-#If you use this dataset please cite oure paper 
-Our paper:
+#If you use this dataset please cite our paper 
+Link to our paper:
 https://arxiv.org/abs/2209.12573
+
 
 
 
