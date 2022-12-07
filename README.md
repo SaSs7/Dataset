@@ -1,14 +1,19 @@
-#If you use this dataset please cite our paper 
-
-
+## If you use this dataset please cite our paper 
 
 Link to our paper:
 https://arxiv.org/abs/2209.12573
 
+Bibtex:
+```bibtex
+@Article{al2022digital,
+  title={Digital Audio Forensics: Blind Human Voice Mimicry Detection},
+  author={Al Ajmi, Sahar and Hayat, Khizar and Al Obaidi, Alaa M and Kumar,
+Naresh and Najmuldeen, Munaf and Magnier, Baptiste},
+  year={2022}
+}
+```
 
-
-
-# Dataset
+## Dataset
 You can download the datasets from the folowing links:
 
 English Dataset:
