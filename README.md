@@ -13,7 +13,7 @@ You can download the datasets from the folowing links:
 
 English Dataset:
 
-https://fastupload.io/en/IgOYABmwgfOAHfy/file
+https://drive.google.com/file/d/1XgO4F39fl17qkcvci0iMglDaUo4-VvDa/view?usp=sharing
 
 Mixed Dataset:
 
