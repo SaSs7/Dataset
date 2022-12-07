@@ -1,14 +1,26 @@
-#If you use this dataset please cite our paper 
-
-
+## If you use this dataset please cite our paper 
 
 Link to our paper:
 https://arxiv.org/abs/2209.12573
 
+Bibtex:
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2209.12573,
+  doi = {10.48550/ARXIV.2209.12573},
+  url = {https://arxiv.org/abs/2209.12573},
+  author = {Ajmi, Sahar Al and Hayat, Khizar and Obaidi, Alaa M. Al and Kumar, Naresh and Najmuldeen, Munaf and Magnier, Baptiste},
+  keywords = {Sound (cs.SD), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), Multimedia (cs.MM), Neural and Evolutionary Computing (cs.NE), Audio and Speech Processing (eess.AS), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, I.2; I.5; I.m, 68T05, 68T07, 68T10},
+  title = {Digital Audio Forensics: Blind Human Voice Mimicry Detection},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
 
 
 
-# Dataset
+
+## Dataset
 You can download the datasets from the folowing links:
 
 English Dataset:
