@@ -3,7 +3,7 @@
 
 
 Link to our paper:
-https://arxiv.org/abs/2209.12573
+https://rdcu.be/dIJX0
 
 
 
