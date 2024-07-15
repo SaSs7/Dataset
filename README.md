@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1XgO4F39fl17qkcvci0iMglDaUo4-VvDa/view?usp=shari
 
 Mixed Dataset:
 
-https://easyupload.io/9nrwon
+https://drive.google.com/file/d/1x7wxxdRvrBTI5fsjZ8M0BCxe5-_eunnN/view?usp=sharing
 
 
 here are 2 datasets of audios, the first one is the the English dataset which is all the files expect the arabic_fake and arabic_real
