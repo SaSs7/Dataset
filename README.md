@@ -12,11 +12,12 @@ https://rdcu.be/dIJX0
 You can download the datasets from the folowing links:
 
 English Dataset:
-
 https://drive.google.com/file/d/1XgO4F39fl17qkcvci0iMglDaUo4-VvDa/view?usp=sharing
 
-Mixed Dataset:
+Arabic Dataset:
+https://drive.google.com/file/d/1x7wxxdRvrBTI5fsjZ8M0BCxe5-_eunnN/view?usp=sharing
 
+Mixed Dataset CSV (download both and compine them as one mixed dataset):
 https://drive.google.com/file/d/1x7wxxdRvrBTI5fsjZ8M0BCxe5-_eunnN/view?usp=sharing
 
 
