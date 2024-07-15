@@ -2,7 +2,7 @@
 
 
 
-Link to our paper:
+Link to the paper:
 https://rdcu.be/dIJX0
 
 
